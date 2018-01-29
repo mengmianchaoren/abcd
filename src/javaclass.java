@@ -4,4 +4,5 @@ public class javaclass {
     int c = 4;
     int n = 5;
     int b = 7;
+    String j = "我是";
 }
