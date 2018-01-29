@@ -3,4 +3,5 @@ public class javaclass {
     int v = 3;
     int c = 4;
     int n = 5;
+    int b = 7;
 }
